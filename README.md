@@ -1,1 +1,1 @@
-# python_course
+# stepic_course
